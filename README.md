@@ -14,5 +14,9 @@ frontend/      # Next.js onboarding portal
 data/          # D1 schemas
 ```
 
+## Production
+
+*Coming soon*
+
 ## Stack
 Cloudflare Workers, WARP, Python, D1, Next.js, Tailwind
